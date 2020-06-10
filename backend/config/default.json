@@ -1,0 +1,4 @@
+{
+	"mongoUri": "mongodb+srv://test:testtest@contactlist-gjmu3.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"secretOrKey": "MySecret"
+}
